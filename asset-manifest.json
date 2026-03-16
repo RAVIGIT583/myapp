@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/myapp/static/js/main.5ae2cb42.js",
-    "index.html": "/myapp/index.html",
-    "main.5ae2cb42.js.map": "/myapp/static/js/main.5ae2cb42.js.map"
+    "main.js": "/csmproject/static/js/main.5ae2cb42.js",
+    "index.html": "/csmproject/index.html",
+    "main.5ae2cb42.js.map": "/csmproject/static/js/main.5ae2cb42.js.map"
   },
   "entrypoints": [
     "static/js/main.5ae2cb42.js"
